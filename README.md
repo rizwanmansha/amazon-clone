@@ -4,7 +4,9 @@ A responsive clone of the Amazon.com homepage, built from scratch using **HTML5*
 
 ## Preview
 
-*(Add a screenshot here — open `index.html` in your browser, take a screenshot, and drag it into this README on GitHub, e.g. `![Preview](preview.png)`)*
+| Navbar |                  | Category Grid |            | Footer |
+|:---:|:---:|:---:|
+| ![Navbar](preview.png) | ![Grid](preview2.png) | ![Footer](preview3.png) |
 
 ## Features
 
